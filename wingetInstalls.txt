@@ -24,3 +24,4 @@ winget install -e --id Microsoft.BingWallpaper;
 winget install -e --id Microsoft.GitCredentialManagerCore;
 winget install -e --id GitHub.cli;
 winget install -e --id dev47apps.DroidCam;
+winget install -e --id MichaelTippach.ASIO4ALL;
